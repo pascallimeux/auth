@@ -1,5 +1,5 @@
 #!/bin/bash
-PID=`pidof auth-go`
+PID=`pidof auth`
 if [ -n "$PID" ]
 then
    kill -9 $PID

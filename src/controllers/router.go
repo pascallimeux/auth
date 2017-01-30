@@ -15,9 +15,9 @@ package controllers
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/pascallimeux/auth-go/src/common"
-	"github.com/pascallimeux/auth-go/src/model"
-	"github.com/pascallimeux/auth-go/src/utils/log"
+	"github.com/pascallimeux/auth/src/common"
+	"github.com/pascallimeux/auth/src/model"
+	"github.com/pascallimeux/auth/src/utils/log"
 	"net/http"
 )
 

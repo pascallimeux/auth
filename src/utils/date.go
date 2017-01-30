@@ -14,7 +14,7 @@ limitations under the License.
 package utils
 
 import (
-	"github.com/pascallimeux/auth-go/src/utils/log"
+	"github.com/pascallimeux/auth/src/utils/log"
 	"time"
 )
 

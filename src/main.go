@@ -14,11 +14,11 @@ limitations under the License.
 package main
 
 import (
-	"github.com/pascallimeux/auth-go/src/common"
-	"github.com/pascallimeux/auth-go/src/controllers"
-	"github.com/pascallimeux/auth-go/src/model"
-	"github.com/pascallimeux/auth-go/src/utils"
-	"github.com/pascallimeux/auth-go/src/utils/log"
+	"github.com/pascallimeux/auth/src/common"
+	"github.com/pascallimeux/auth/src/controllers"
+	"github.com/pascallimeux/auth/src/model"
+	"github.com/pascallimeux/auth/src/utils"
+	"github.com/pascallimeux/auth/src/utils/log"
 	"net/http"
 	"os"
 	"time"

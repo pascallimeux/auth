@@ -17,7 +17,7 @@ import (
 	"encoding/json"
 	"errors"
 	"github.com/gorilla/mux"
-	"github.com/pascallimeux/auth-go/src/utils/log"
+	"github.com/pascallimeux/auth/src/utils/log"
 	"net/http"
 )
 

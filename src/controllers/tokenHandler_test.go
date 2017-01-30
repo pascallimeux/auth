@@ -16,8 +16,8 @@ package controllers
 import (
 	"encoding/json"
 	"errors"
-	"github.com/pascallimeux/auth-go/src/common"
-	"github.com/pascallimeux/auth-go/src/model"
+	"github.com/pascallimeux/auth/src/common"
+	"github.com/pascallimeux/auth/src/model"
 	"io/ioutil"
 	"net/http"
 	"strings"

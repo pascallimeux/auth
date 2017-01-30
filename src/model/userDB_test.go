@@ -15,8 +15,8 @@ package model
 
 import (
 	"encoding/json"
-	"github.com/pascallimeux/auth-go/src/common"
-	"github.com/pascallimeux/auth-go/src/utils/log"
+	"github.com/pascallimeux/auth/src/common"
+	"github.com/pascallimeux/auth/src/utils/log"
 	"golang.org/x/crypto/bcrypt"
 	"os"
 	"testing"
