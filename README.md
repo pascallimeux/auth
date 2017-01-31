@@ -9,7 +9,7 @@ gestion de permissions
 
 
 https_proxy=proxy:8080 go get -u github.com/mattn/go-sqlite3
-
+https_proxy=proxy:8080 go get -u github.com/spf13/viper
 
 externaliser ce logiciel
 externaliser les fonctions log/conf etc.

@@ -11,7 +11,7 @@ if [ "$1" ==  "init" ]
  then
      rm auth.log
  	 echo "start auth init"
-     ./auth-go init &
+     ./auth init &
  else
  	 echo "start auth"
      ./auth &
